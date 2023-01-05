@@ -10,6 +10,8 @@ Infuse 7 with Pro unlocked
 
 <a href="altstore://install?URL=https://github.com/Suffuse-Team/suffuse-team.github.io/releases/download/v7.4.10/Suffuse.v7.4.10.ipa"><img src="https://img.shields.io/badge/AltStore-Install%20Suffuse-blue?style=for-the-badge&color=ff8000"></a>
 
+<a href="https://github.com/Suffuse-Team/suffuse-team.github.io/releases/download/v7.4.10/Suffuse.v7.4.10.ipa"><img src="https://img.shields.io/badge/Suffuse-Download%20ipa-blue?style=for-the-badge"></a>
+
 ## Credits
 [EshayDev](https://github.com/EshayDev)<br/>
 [SeahDev](https://github.com/SeahDev)<br/>
