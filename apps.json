@@ -10,7 +10,7 @@
       "version": "7.4.10",
       "versionDate": "2022-12-26",
 			"versionDescription": "NEW\n- Display HDR10+ tag on video details page\n- Option to add root share (All Files) to favorites\n\nIMPROVED\n- Speed & stability improvements for SMB streaming\n- Improved sorting of items on Home Screen\n\nFIXED\n- Fixes for RTL subtitles\n- Other minor fixes and improvements",
-			"downloadURL": "https://github.com/Suffuse-Team/suffuse-team.github.io/releases/download/v7.4.10/Suffuse.v7.4.10.ipa",
+			"downloadURL": "https://github.com/Suffuse-Team/suffuse-team.github.io/releases/download/v7.4.10/Suffuse.ipa",
 			"size": 41812403,
 			"minOSVersion": "14.0",
 			"localizedDescription": "Infuse 7 with Pro unlocked\n\nIgnite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, Apple TV, and Mac. No need to convert files! Infuse is optimized for macOS 12, with powerful streaming options, Trakt sync, and unmatched AirPlay & subtitle support. Gorgeous interface. Precise controls. And silky-smooth playback.",
