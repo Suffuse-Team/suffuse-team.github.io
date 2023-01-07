@@ -14,13 +14,14 @@ Infuse 7 with Pro unlocked
 
 ### APT Repo for Jailbroken Devices
 [![Cydia](https://img.shields.io/badge/Cydia-Add%20Repo-blue?style=for-the-badge&color=a1653d)](cydia://url/https://cydia.saurik.com/api/share#?source=https://suffuse-team.github.io/jb)
-<br>
+
 [![Sileo](https://img.shields.io/badge/Sileo-Add%20Repo-blue?style=for-the-badge&color=2ed9d6)](sileo://source/https://suffuse-team.github.io/jb)
-<br>
+
 [![Installer](https://img.shields.io/badge/Installer-Add%20Repo-blue?style=for-the-badge&color=0e9aeb)](installer://add/repo=https://suffuse-team.github.io/jb)
-<br>
+
 [![Zebra](https://img.shields.io/badge/Zebra-Add%20Repo-blue?style=for-the-badge&color=363636)](zbra://sources/add/https://suffuse-team.github.io/jb)
 
+`https://suffuse-team.github.io/jb`
 ## Changelog
 [View on GitHub](https://github.com/Suffuse-Team/suffuse-team.github.io/releases/latest)
 
