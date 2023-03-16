@@ -2,11 +2,11 @@
 Infuse 7 with Pro unlocked
 
 ### Download
-<a href="altstore://install?URL=https://github.com/Suffuse-Team/suffuse-team.github.io/releases/download/latest/Suffuse.ipa"><img src="https://img.shields.io/badge/Latest-Install%20with%20AltStore-blue?style=for-the-badge&color=388F90"></a>
+<a href="altstore://install?URL=https://github.com/Suffuse-Team/suffuse-team.github.io/releases/download/v7.5/Suffuse.v7.5.ipa"><img src="https://img.shields.io/badge/Latest-Install%20with%20AltStore-blue?style=for-the-badge&color=388F90"></a>
 
-[![TrollStore](https://img.shields.io/badge/Latest-Install%20with%20TrollStore-blue?style=for-the-badge&color=0079eb)](apple-magnifier://install?url=https://github.com/Suffuse-Team/suffuse-team.github.io/releases/download/v7.4.10/Suffuse.ipa)
+[![TrollStore](https://img.shields.io/badge/Latest-Install%20with%20TrollStore-blue?style=for-the-badge&color=0079eb)](apple-magnifier://install?url=https://github.com/Suffuse-Team/suffuse-team.github.io/releases/download/v7.5/Suffuse.v7.5.ipa)
 
-<a href="https://github.com/Suffuse-Team/suffuse-team.github.io/releases/download/v7.4.10/Suffuse.ipa"><img src="https://img.shields.io/badge/Latest-Download%20ipa-blue?style=for-the-badge&color=ff8000"></a>
+<a href="https://github.com/Suffuse-Team/suffuse-team.github.io/releases/download/v7.5/Suffuse.v7.5.ipa"><img src="https://img.shields.io/badge/Latest-Download%20ipa-blue?style=for-the-badge&color=ff8000"></a>
 
 ### AltStore Source
 <a href="altstore://source?URL=https://suffuse-team.github.io/apps.json"><img src="https://img.shields.io/badge/AltStore-Add%20source-blue?style=for-the-badge&color=388F90"></a>
