@@ -1,0 +1,27 @@
+{
+    "META": {
+        "repoName": "Suffuse",
+        "repoIcon": "https:\/\/static.firecore.com\/images\/infuse\/infuse-icon_2x.png"
+    },
+    "All Apps": [
+        {
+            "name": "Suffuse",
+            "version": "7.5.4",
+            "icon": "https:\/\/static.firecore.com\/images\/infuse\/infuse-icon_2x.png",
+            "down": "https:\/\/github.com\/Suffuse-Team/suffuse-team.github.io/releases\/latest\/download/Suffuse.ipa",
+            "category": "All Apps",
+            "dev": "Suffuse Team",
+            "banner": "https:\/\/suffuse-team.github.io\/jb\/assets\/io.suffuseteam.suffuse\/banner.png",
+            "description": "Infuse 7 with Pro unlocked. Made by the Suffuse Team.",
+            "bundleID": "com.firecore.infuse",
+            "contact": {
+                "web": "https:\/\/suffuse-team.github.io",
+                "twitter": "https:\/\/twitter.com\/EshayDev"
+            },
+            "screenshots": [
+                "https:\/\/github.com/Suffuse-Team\/suffuse-team.github.io\/blob\/main\/jb\/assets\/io.suffuseteam.suffuse\/screenshot\/01.png"
+
+            ]
+        }
+    ]
+}
