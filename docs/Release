@@ -1,0 +1,12 @@
+Origin: Suffuse Repo
+Label: Suffuse Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Tweaks from Suffuse Team
+
+SHA256:
+ cda5fdf545e0b9b8453d1c47e4f20d803c73a7dd88d697f6962b45dbd11bb893 871 Packages.bz2
+ 20871fa97ce4d66ac5b365152c2e71d5e538efc0394050cdd14c55293eb0a2dd 804 Packages.xz
