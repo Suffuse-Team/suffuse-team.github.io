@@ -6,7 +6,7 @@
     "All Apps": [
         {
             "name": "Suffuse",
-            "version": "7.5.7",
+            "version": "7.5.8",
             "icon": "https:\/\/static.firecore.com\/images\/infuse\/infuse-icon_2x.png",
             "down": "https:\/\/github.com\/Suffuse-Team/suffuse-team.github.io/releases\/latest\/download/Suffuse.ipa",
             "category": "All Apps",
@@ -19,7 +19,13 @@
                 "twitter": "https:\/\/twitter.com\/EshayDev"
             },
             "screenshots": [
-                "https:\/\/github.com/Suffuse-Team\/suffuse-team.github.io\/blob\/main\/jb\/assets\/io.suffuseteam.suffuse\/screenshot\/01.png"
+                "https://suffuse-team.github.io/images/1.png",
+				"https://suffuse-team.github.io/images/2.png",
+				"https://suffuse-team.github.io/images/3.png",
+				"https://suffuse-team.github.io/images/4.png",
+				"https://suffuse-team.github.io/images/5.png",
+				"https://suffuse-team.github.io/images/6.png",
+				"https://suffuse-team.github.io/images/7.png"
 
             ]
         }
