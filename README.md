@@ -2,14 +2,14 @@
 Infuse 7 with Pro unlocked
 
 ### Download (iOS / iPadOS)
-<a href="altstore://install?URL=https://github.com/Suffuse-Team/suffuse-team.github.io/releases/latest/download/Suffuse.ipa"><img src="https://img.shields.io/badge/Latest-Install%20with%20AltStore-blue?style=for-the-badge&color=388F90"></a>
+<a href="altstore://install?URL=https://github.com/Suffuse-Team/suffuse-team.github.io/releases/latest/download/Suffuse-iOS.ipa"><img src="https://img.shields.io/badge/Latest-Install%20with%20AltStore-blue?style=for-the-badge&color=388F90"></a>
 
-[![TrollStore](https://img.shields.io/badge/Latest-Install%20with%20TrollStore-blue?style=for-the-badge&color=0079eb)](apple-magnifier://install?url=https://github.com/Suffuse-Team/suffuse-team.github.io/releases/latest/download/Suffuse.ipa)
+[![TrollStore](https://img.shields.io/badge/Latest-Install%20with%20TrollStore-blue?style=for-the-badge&color=0079eb)](apple-magnifier://install?url=https://github.com/Suffuse-Team/suffuse-team.github.io/releases/latest/download/Suffuse-iOS.ipa)
 
-<a href="https://github.com/Suffuse-Team/suffuse-team.github.io/releases/latest/download/Suffuse.ipa"><img src="https://img.shields.io/badge/Latest-Download%20ipa-blue?style=for-the-badge&color=ff8000"></a>
+<a href="https://github.com/Suffuse-Team/suffuse-team.github.io/releases/latest/download/Suffuse-iOS.ipa"><img src="https://img.shields.io/badge/Latest-Download%20ipa-blue?style=for-the-badge&color=ff8000"></a>
 
 ### Download (tvOS with TrollStore)
-<a href="https://github.com/Suffuse-Team/suffuse-team.github.io/releases/latest/download/Suffuse.for.tvOS.tipa"><img src="https://img.shields.io/badge/Latest-Download%20ipa-blue?style=for-the-badge&color=ff8000"></a>
+<a href="https://github.com/Suffuse-Team/suffuse-team.github.io/releases/latest/download/Suffuse-TrollStore-tvOS.tipa"><img src="https://img.shields.io/badge/Latest-Download%20ipa-blue?style=for-the-badge&color=ff8000"></a>
 
 ### AltStore Source
 <a href="altstore://source?URL=https://suffuse-team.github.io/apps.json"><img src="https://img.shields.io/badge/AltStore-Add%20source-blue?style=for-the-badge&color=388F90"></a>
@@ -39,6 +39,8 @@ tvOS IPA only works with TrollStore. Sideloadly is not supported yet, due to Tro
 [EshayDev](https://github.com/EshayDev)<br/>
 [SeahDev](https://github.com/SeahDev)<br/>
 [dayanch96](https://github.com/dayanch96)<br/>
+[Strejda603](https://github.com/strejda603)<br/>
+[ghost27](https://github.com/ghost2783)<br/>
 
 ## Disclaimer
 We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with Firecore. The official Firecore website can be found at [https://firecore.com](https://firecore.com).
