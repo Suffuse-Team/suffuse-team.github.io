@@ -6,7 +6,7 @@
     "All Apps": [
         {
             "name": "Suffuse",
-            "version": "7.7.1",
+            "version": "7.7.2",
             "icon": "https:\/\/static.firecore.com\/images\/infuse\/infuse-icon_2x.png",
             "down": "https:\/\/github.com\/Suffuse-Team/suffuse-team.github.io/releases\/latest\/download/Suffuse-iOS.ipa",
             "category": "All Apps",
